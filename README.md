@@ -1,3 +1,2 @@
-# -
-homework in campus
+# homework in campus
 ## nothing now
